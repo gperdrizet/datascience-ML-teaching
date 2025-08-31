@@ -1,4 +1,7 @@
 # Data science/ML materials
+
+[![pages-build-deployment](https://github.com/gperdrizet/datascience-ML-teaching/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/gperdrizet/datascience-ML-teaching/actions/workflows/pages/pages-build-deployment)
+
 Data science and machine learning teaching materials portfolio
 
 ## 1. 4Geeks Academy Data Science (2024-present)
