@@ -1,2 +1,2 @@
-# datascience-ML-teaching
+# Data science/ML materials
 Data science and machine learning teaching materials portfolio
