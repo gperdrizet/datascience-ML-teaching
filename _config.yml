@@ -1,4 +1,4 @@
 # Jekyll configuration file for pages deployment
-remote_theme: pages-themes/tactile@v0.2.0
+remote_theme: pages-themes/tactile@v0.2.0 # https://github.com/pages-themes/tactile
 plugins:
 - jekyll-remote-theme
