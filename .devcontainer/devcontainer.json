@@ -31,5 +31,5 @@
 	"postCreateCommand": "",
 
 	// Use 'postAttachCommand' to run commands each time a user connects to the container
-	"postAttachCommand": "htop"
+	"postAttachCommand": "bundle exec jekyll serve"
 }
