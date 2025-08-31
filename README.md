@@ -1,4 +1,4 @@
-# Data science/ML materials
+# Data science & ML teaching materials
 
 [![pages-build-deployment](https://github.com/gperdrizet/datascience-ML-teaching/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/gperdrizet/datascience-ML-teaching/actions/workflows/pages/pages-build-deployment)
 
