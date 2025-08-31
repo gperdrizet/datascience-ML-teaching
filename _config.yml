@@ -1,2 +1,2 @@
 # Jekyll configuration file for pages deployment
-theme: jekyll-theme-minima
+remote_theme: "jekyll/minima"
