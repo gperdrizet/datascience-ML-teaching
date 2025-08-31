@@ -18,12 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Data science & Machine learning
+title: Data Science & Machine Learning
 description: Teaching materials portfolio
 github: [metadata]
 
 # Build settings
-remote_theme: pages-themes/primer@v0.6.0 # https://github.com/pages-themes/primer
+remote_theme: gperdrizet/primer # https://github.com/gperdrizet/primer
 plugins:
 - jekyll-remote-theme
 
