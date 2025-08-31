@@ -5,8 +5,6 @@
 layout: home
 ---
 
-[![pages-build-deployment](https://github.com/gperdrizet/datascience-ML-teaching/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/gperdrizet/datascience-ML-teaching/actions/workflows/pages/pages-build-deployment)
-
 Data science and machine learning teaching materials portfolio.
 
 1. [Logistic regression](https://github.com/gperdrizet/logistic-regression)
