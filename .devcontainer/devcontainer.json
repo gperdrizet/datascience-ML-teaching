@@ -26,8 +26,8 @@
 		"mcp": {
 			"servers": {
 				"github": {
-					"command": "npx",
-					"args": ["-y", "@microsoft/mcp-server-github"]
+					"type": "http",
+					"url": "https://api.githubcopilot.com/mcp/"
 				}
 			}
 		}
